@@ -2,6 +2,8 @@
 
 Free personal finance software, money management
 
+⚠️ This project is no longer maintained. ⚠️
+
 ## Installation
 
 Linux users can use the [installer](https://github.com/timonier/homebank/blob/master/bin/installer):
